@@ -20,7 +20,7 @@
             "name": "mspControlCenterPreview",
             "location": "[parameters('rgLocation')]",
             "tags": {
-                "hidden-title": "MSP Control Center Preview"
+                "hidden-title": "SNS Customer Control Center"
             },
             "properties": {
                 "lenses": {
@@ -175,7 +175,7 @@
                                     "inputs": [
                                         {
                                             "name": "tagName",
-                                            "value": "ManagedByMsp",
+                                            "value": "ManagedBySNS",
                                             "isOptional": true
                                         },
                                         {
