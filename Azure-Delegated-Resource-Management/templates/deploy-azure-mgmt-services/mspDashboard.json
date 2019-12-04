@@ -20,7 +20,7 @@
             "name": "SNS Customer Control Center",
             "location": "[parameters('rgLocation')]",
             "tags": {
-                "hidden-title": "SNS Customer Control Center"
+                "hidden-title": "SNS-Customer-Control-Center"
             },
             "properties": {
                 "lenses": {
