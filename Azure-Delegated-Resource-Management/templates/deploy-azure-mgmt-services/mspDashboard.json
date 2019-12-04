@@ -17,7 +17,7 @@
         {
             "type": "Microsoft.Portal/dashboards",
             "apiVersion": "2015-08-01-preview",
-            "name": "SNS Customer Control Center",
+            "name": "SNS-Customer-Control-Center",
             "location": "[parameters('rgLocation')]",
             "tags": {
                 "hidden-title": "SNS-Customer-Control-Center"
